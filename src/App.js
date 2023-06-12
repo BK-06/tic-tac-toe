@@ -75,7 +75,7 @@ export default function App(){
 
     const restartGame = () => {
         setBoard(["","","","","","","","",""]);
-        // setPlayer("O");
+        setPlayer("O");
     }
 
 
